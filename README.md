@@ -56,7 +56,8 @@ The mass shooting datasets used in this analysis are collections of data related
 1. **Donut Chart:**
    - Created a donut chart to show the number of fatalities for the years 2015, 2016, 2017, 2018, and 2019.
 
-![Sample Donut Chart](Fatalities by Year.JPG)
+Donut Chart - Fatalities by Year
+https://github.com/psmadal1203/Mass-Shooting-Analysis-Project/blob/main/Fatalities%20by%20Year.JPG
 
 ### Card Visuals
 

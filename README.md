@@ -34,6 +34,8 @@ The mass shooting datasets used in this analysis are collections of data related
 
 1. **Key Influencers Visual:**
    - Created a Key Influencers visual to analyze fatalities trends by the total number of victims with respect to total injured people.
+   - Key Influencers.JPG
+   
 
 ### Treemap Visualization
 

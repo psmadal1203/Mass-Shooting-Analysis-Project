@@ -42,28 +42,25 @@ The mass shooting datasets used in this analysis are collections of data related
 1. **Treemap Visualization:**
    - Created a treemap by categorizing cases with weapon details and the number of victims. Showed only deaths related to specific weapons.
 
-![Sample Treemap](images/treemap.jpg)
-
+    [Sample Treemap.jpg](https://github.com/psmadal1203/Mass-Shooting-Analysis-Project/blob/main/Weapons%20Details.JPG)
 ### Waterfall Chart
 
 1. **Waterfall Chart:**
    - Created a waterfall chart to display the race-wise number of victims per year. Filtered the data to show only Asian, Black, and Latino races.
 
- [images/waterfall_chart.jpg](https://github.com/psmadal1203/Mass-Shooting-Analysis-Project/blob/main/Waterfall%20Visualizaiton%20of%20Total%20Victims.JPG)
+    [Waterfall_chart.jpg](https://github.com/psmadal1203/Mass-Shooting-Analysis-Project/blob/main/Waterfall%20Visualizaiton%20of%20Total%20Victims.JPG)
 
 ### Donut Chart
 
 1. **Donut Chart:**
    - Created a donut chart to show the number of fatalities for the years 2015, 2016, 2017, 2018, and 2019.
      
-   [- Donut Chart - Fatalities by Year.JPG](https://github.com/psmadal1203/Mass-Shooting-Analysis-Project/blob/main/Fatalities%20by%20Year.JPG)
+     [Donut Chart - Fatalities by Year.JPG](https://github.com/psmadal1203/Mass-Shooting-Analysis-Project/blob/main/Fatalities%20by%20Year.JPG)
 
 ### Card Visuals
 
 1. **Card Visuals:**
    - Created card visuals to display the total number of victims and the total number of injured people.
-
-![Sample Card Visuals](images/card_visuals.jpg)
 
 ### Publish and Deploy
 
@@ -76,7 +73,6 @@ The mass shooting datasets used in this analysis are collections of data related
 ## Repository Structure
 
 - **data/:** Contains the dataset file.
-- **notebooks/:** Contains Jupyter notebooks or analysis scripts.
 - **reports/:** Contains Power BI report files.
 - **scripts/:** Contains scripts or Power BI files related to data cleaning and transformation.
 - **visuals/:** Contains Power BI files related to various visualizations.
@@ -87,11 +83,3 @@ The mass shooting datasets used in this analysis are collections of data related
 2. Load the dataset into Power BI.
 3. Open the Power BI report files in the "reports/" folder.
 4. Explore and analyze the visualizations.
-
-## Contact
-
-For any questions or support, please contact us at support@intellipaat.com.
-
----
-
-**© Copyright Intellipaat. All rights reserved.**

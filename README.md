@@ -1,6 +1,3 @@
-# Mass-Shooting-Analysis-Project
-The primary objective of this project is to analyze a mass shooting dataset using Microsoft Power BI. The dataset includes information about incidents involving multiple people being shot, with a focus on understanding patterns, trends, and correlations.
-
 # Mass Shooting Analysis Project
 
 ## Introduction
